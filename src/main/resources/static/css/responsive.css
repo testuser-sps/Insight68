@@ -1,0 +1,118 @@
+@media (min-width: 320px) and (max-width: 900px) {
+
+    .mx-5 {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .px-5 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+    .service-textbottom {
+        height: auto !important;
+        padding: 1rem;
+    }
+
+    .bgyellow .pl-5 {
+        padding-left: 0px !important;
+    }
+
+    .bgyellow .pr-5 {
+        padding-right: 0px !important;
+    }
+
+    .productbod {
+        border-right: 0px solid #BDBDBD;
+    }
+
+    .nav-pad {
+        padding-left: 0rem !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.5rem !important;
+        padding-left: 1.5rem !important;
+    }
+
+    .dropdown-menu {
+        min-width: 100%;
+    }
+
+    .slider-margin {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .offset-10 {
+        margin-left: 17.333333%;
+    }
+
+    .padd-story {
+        padding-left: 0rem;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 750px) {
+
+    .resdiv {
+        display: none;
+    }
+
+    .border-right {
+        border-right: 1px solid #fff !important;
+    }
+
+    .text-right {
+        text-align: unset !important;
+        display: inline-block;
+    }
+
+    .bar-bottom {
+        overflow: auto;
+        height: 600px;
+    }
+
+    .form-inline {
+        float: right;
+    }
+
+    .navbar-brand,
+    .navbar-toggler {
+        margin-bottom: 1rem;
+    }
+
+    .innerbanner {
+        margin-top: 12rem;
+    }
+
+    .banner-chat {
+        margin-top: -7rem;
+    }
+
+}
+
+@media (min-width: 1000px) and (max-width: 1280px) {
+    .offset-10 {
+        margin-left: 70.333333%;
+    }
+
+    .banner-chat {
+        margin-top: -15rem;
+    }
+
+}
+
+@media (min-width: 1000px) and (max-width: 1200px) {
+    .service-textbottom {
+        height: 200px;
+    }
+}
+
+@media (min-width: 750px) and (max-width: 800px) {
+    .banner-chat {
+        margin-top: -12rem;
+    }
+}
+
